@@ -1,2 +1,2 @@
-# Just tetris
+# Tetris
 A tetris game in Qt C++
